@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "楓",
+  "base_artist": "Spitz",
+  "createdAt": "2025-12-31T09:45:32.781817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_楓_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_楓_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_楓_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_楓_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/05_楓_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kiss(and)Love【楓&ゆず】",
+      "artist": "SAKURA*TRICK【楓&ゆず】(CV:渕上舞、戸田めぐみ)",
+      "has_synced": false,
+      "path": "select/06_Kiss(and)Love【楓&ゆず】_SAKURA_TRICK【楓&ゆず】(CV_渕上舞、戸田めぐみ).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kiss(and)Love【楓&ゆず】",
+      "artist": "SAKURA*TRICK【池野楓&飯塚ゆず】(CV:渕上舞、戸田めぐみ)",
+      "has_synced": false,
+      "path": "select/07_Kiss(and)Love【楓&ゆず】_SAKURA_TRICK【池野楓&飯塚ゆず】(CV_渕上舞、戸田めぐみ).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/08_楓_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/09_楓_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "楓+退後+擱淺 (Live)",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/10_楓+退後+擱淺_(Live)_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "楓 - Kaede",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/11_楓_-_Kaede_Uru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "ジェイ・チョウ",
+      "has_synced": true,
+      "path": "select/12_楓_ジェイ・チョウ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "楓",
+      "artist": "Adieu",
+      "has_synced": true,
+      "path": "select/13_楓_Adieu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "楓 (Instrumental)",
+      "artist": "Adieu",
+      "has_synced": true,
+      "path": "select/14_楓_(Instrumental)_Adieu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "楓 - Kaede",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/15_楓_-_Kaede_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "楓+退後+擱淺",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/16_楓+退後+擱淺_周杰倫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_楓_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "楓",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_10_楓_スピッツ.txt"
+    }
+  ]
+}
